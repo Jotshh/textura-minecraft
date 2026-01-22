@@ -1,0 +1,7 @@
+# Ignorar arquivos do IDE
+.idea/
+.vscode/
+
+# Ignorar builds/compactações
+*.zip
+builds/

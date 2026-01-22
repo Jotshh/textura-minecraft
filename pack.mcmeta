@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "1.21.x - Textura Insana by Jotss",
+    "pack_format": 16,
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 93
+    },
+    "min_format": 16,
+    "max_format": 93
+  }
+}
