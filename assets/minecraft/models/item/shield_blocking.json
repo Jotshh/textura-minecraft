@@ -2,7 +2,7 @@
     "parent": "builtin/entity",
     "gui_light": "front",
     "textures": {
-        "particle": "/entity/shield"
+        "particle": "/entity/shield/shield"
     },
     "display": {
         "thirdperson_righthand": {
@@ -17,12 +17,12 @@
         },
         "firstperson_righthand": {
             "rotation": [ 0, 180, -5 ],
-            "translation": [ -15, -1, -11 ],
+            "translation": [ -15, 1.25, -11 ],
             "scale": [ 1.25, 1.25, 1.25 ]
         },
         "firstperson_lefthand": {
             "rotation": [ 0, 180, -5 ],
-            "translation": [ 5, 0.9, -11 ],
+            "translation": [ 5, 3, -11 ],
             "scale": [ 1.25, 1.25, 1.25 ]
         },
         "gui": {

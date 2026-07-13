@@ -2,7 +2,7 @@
     "parent": "builtin/entity",
     "gui_light": "front",
     "textures": {
-        "particle": "/entity/shield"
+        "particle": "/entity/shield/base"
     },
     "display": {
         "thirdperson_righthand": {
