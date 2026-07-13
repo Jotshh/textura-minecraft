@@ -1,6 +1,10 @@
 {
   "pack": {
-    "description": "1.21.x - Textura Insana by Jotss",
+    "description": [
+      { "text": "26.2 - Minecraft Clean.", "color": "white" },
+      { "text": "\n Jotss ", "color": "gray", "bold": true },
+      { "text": " §kJotss", "color": "black", "bold": true }
+    ],
     "pack_format": 16,
     "supported_formats": {
       "min_inclusive": 16,
